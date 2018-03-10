@@ -3,4 +3,8 @@ Electron requires node.
 ##Installing node
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
 
+http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/
+
+
+
 https://electronjs.org/
