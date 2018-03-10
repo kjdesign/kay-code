@@ -15,7 +15,7 @@ function init()
 {
   console.log('called endpoint');
   console.log('responding to request');
-  res.send('hello world');
+  res.send('hello world ' + new Date());
   res.end(); //ends response to user
   console.log('successfully responded to request at ' + new Date());
 })
